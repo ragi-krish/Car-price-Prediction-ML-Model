@@ -60,17 +60,7 @@ Evaluation metrics used to compare model performance:
 
 Comparison table showcasing the performance of all models.
 
-**4. Feature Importance Analysis** 
-
-- Analyzed the significant predictors using techniques such as feature importance from tree-based models or coefficients from linear models.
-- Key features identified:
-  - Engine size
-  - Mileage
-  - Brand reputation
-  - Safety features
-  - Luxury features
-
-**5. Hyperparameter Tuning** 
+**4. Hyperparameter Tuning** 
 
 - Performed hyperparameter tuning using GridSearchCV for the best-performing model.
 - Tuned parameters include:
